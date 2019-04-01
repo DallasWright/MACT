@@ -9,7 +9,9 @@ MACT is an interacive API Malware Analysis tool for 32-bit Windows.
 The following files are provided:
 1. mact32.dll - 32 bit version of MACT
 2. serverc.dll - Server used in conjunction with MACT
-3. mactgt32.dll - Used to log timing anti-analysis techniques for attempted bypass on full execution.
+3. mact.res
+
+verify.cpp from Microsoft Detours is also required unless you remove the Verify calls. They are only informational.
 </p>
 
 <h2><b>Requirements</b><h2>
