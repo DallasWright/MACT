@@ -4,6 +4,8 @@ Malware Analysis and Artifact Capture Tool
 <h2><b>Overview</b><h2>
 <hr></hr>
 <p>
+Full Dissertation at https://scholar.dsu.edu/theses/327/
+  
 MACT is an interacive API Malware Analysis tool for 32-bit Windows.
 
 The following files are provided:
